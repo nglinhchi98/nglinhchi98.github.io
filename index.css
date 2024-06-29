@@ -335,7 +335,7 @@ body {
     background: rgb(175, 67, 67); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 50, 50,0.8); 
+    background: rgba(175, 67, 67,0.8); 
 }
 ::selection {
 	color: #fff;
