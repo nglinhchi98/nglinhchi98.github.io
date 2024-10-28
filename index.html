@@ -35,7 +35,7 @@
     <a id="projects" onclick="showprojects()" class="animated fadeIn" style="animation-delay: 1000ms;">projects</a>
     <div id="middle" class="animated slideInDown" style="animation-delay: 2000ms;">
         <h1>Chi Nguyen</h1>
-        <h2>Front End Developer</h2>
+        <h2>Final year BIT student @Haaga-Helia UAS | Data enthusiast </h2>
         <div id="menu">
             <a onclick="showabout()">about</a>
             <a onclick="showwork()">resume</a>
@@ -60,7 +60,7 @@
                 Here are some of the projects I've worked on. Feel free to explore:
             </p>
             <ul>
-                <div class="project_card">
+                <div class="project_card" hidden>
                     <div class="project_info">
                         <h3>Personal Trainer web application</h3>
                         <p>Course’s final project for a comprehensive web application for personal trainers to manage clients, activities, andschedules efficiently.</p>
@@ -69,24 +69,39 @@
                                 style="color: inherit; text-decoration: none"> View Project </a></button>
                     </div>
                 </div>
+                <div class="project_card" >
+                    <div class="project_info">
+                        <h3>Medical data visualizer</h3>
+                        <p>Visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.</p>
+                        <button class="btn_one"><a
+                                href="https://replit.com/@nglinhchi98/medical-data-visualizer"
+                                style="color: inherit; text-decoration: none" target="_blank"> View Project </a></button>
+                        <button class="btn_one"><a
+                                href="/assets/Categorical_Plot.png"
+                                style="color: inherit; text-decoration: none" target="_blank"> View Categorical plot </a></button>
+                        <button class="btn_one"><a
+                                href="assets/Heatmap_medical.png"
+                                style="color: inherit; text-decoration: none" target="_blank"> View Heatmap </a></button>
+                    </div>
+                </div>
                 <div class="project_card">
                     <div class="project_info">
                         <h3>SQL Project: Ticket database</h3>
                         <p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition
-  languages to meet project requirements and ensure efficient data management and retrieval.</p>
+                        languages to meet project requirements and ensure efficient data management and retrieval.</p>
                         <button class="btn_one"><a href=""
-                                style="color: inherit; text-decoration: none"> View Project </a></button>
+                                style="color: inherit; text-decoration: none"> Download solutions</a></button>
                     </div>
                 </div>
                 <div class="project_card">
                     <div class="project_info">
                         <h3>Data Analysis with Python - freeCodeCamp</h3>
                         <button class="btn_one"><a href="https://www.freecodecamp.org/certification/chinguyen98/data-analysis-with-python-v7"
-                                style="color: inherit; text-decoration: none"> View certificate</a></button>
+                                style="color: inherit; text-decoration: none" target="_blank"> View certificate</a></button>
                     </div>
                 </div>
 
-                <div class="project_card">
+                <div class="project_card" hidden>
                     <div class="project_info">
                         <h3>Responsive Web Design - freeCodeCamp</h3>
                         <button class="btn_one"><a href="https://www.freecodecamp.org/certification/chinguyen98/responsive-web-design"
