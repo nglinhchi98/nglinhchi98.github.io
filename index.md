@@ -17,12 +17,15 @@
 [Sea level predictor](http://example.com/)
 
 ---
+[Page view time series visualizer](http://example.com/)
+
+---
 [SQL Project: Ticket database](http://example.com/)
 <p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition languages to meet project requirements and ensure efficient data management and retrieval.</p>
-[Create tables](pdf/CreateTables.sql)
-[Create indexes](pdf/CreateIndexes.sql)
-[Create data](pdf/CreateData.sql)
-[Testing](pdf/Testing.sql)
+[Create tables](pdf/CreateTables.sql) <br>
+[Create indexes](pdf/CreateIndexes.sql) <br>
+[Create data](pdf/CreateData.sql) <br>
+[Testing](pdf/Testing.sql) <br>
 
 ---
 
