@@ -17,7 +17,7 @@
 [Sea level predictor](pdf/sea-level-predictor.html)
 <p>In this project, I analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.</p>
 ---
-[Page view time series visualizer](http://example.com/)
+[Page view time series visualizer](pdf/page-view-time-series-visualizer.html)
 <p>For this project, I visualize time series data using a line chart, bar chart, and box plots. The dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations helps to understand the patterns in visits and identify yearly and monthly growth.</p>
 ---
 ### SQL Project
