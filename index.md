@@ -12,8 +12,6 @@
 [Medical data visualizer](pdf/medical_data_visualizer.html)
 <p>In this project, I visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.</p>
 <p><i>Tech stack: Python (pandas, seaborn, matplotlib), Jupyter notebook</i></p>
----
-[Page view time series visualizer](http://example.com/)
 
 ---
 [Sea level predictor](http://example.com/)
