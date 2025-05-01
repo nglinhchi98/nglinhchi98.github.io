@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Chi Nguyen # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Enthusiast | BIT student @Haaga-Helia AMK, Master student of Information and Service Management @Aalto University 
   <br><br>
-  Second description 
+  Experienced in SQL, Power BI, and Python for data analysis, visualization, and reporting. Skilled in optimizing data workflows, analyzing business performance, and supporting strategic decision-making with data insights. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/chinguyenlinh98/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
