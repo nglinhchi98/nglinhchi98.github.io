@@ -14,7 +14,7 @@
 [Medical data visualizer](pdf/medical_data_visualizer.html)
 <p>In this project, I visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.</p>
 ---
-[Sea level predictor](http://example.com/)
+[Sea level predictor](pdf/sea-level-predictor.html)
 <p>In this project, I analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.</p>
 ---
 [Page view time series visualizer](http://example.com/)
