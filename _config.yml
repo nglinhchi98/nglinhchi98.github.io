@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Experienced in SQL, Power BI, and Python for data analysis, visualization, and reporting. Skilled in optimizing data workflows, analyzing business performance, and supporting strategic decision-making with data insights. 
   <br><br>
   <a href="https://www.linkedin.com/in/chinguyenlinh98/">View My LinkedIn Profile</a> 
-  <br>
+  <br><br>
   <a href="pdf/ChiNguyen_DAResume.pdf" target="_blank">View my resume</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
