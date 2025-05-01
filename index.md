@@ -6,7 +6,7 @@
 
 [Customer engagement visualization](pdf/CustomerEngagement_Analysis.html)
 <p>This project focused on analyzing customer engagement data for a delivery service company. I performed data cleaning, exploratory data analysis (EDA), and visualization to uncover user behavior patterns and platform usage trends. The goal was to generate actionable insights to support business decisions related to customer engagement and retention.</p>
-<p><i>Tech stack: Python (pandas, seaborn, matplotlib, numpy), Jupyter notebook</i></p>
+<p><i>Tech stack: Python (Pandas, Seaborn, Matplotlib, Numpy), Jupyter notebook</i></p>
 
 ---
 ### Data Analysis with Python projects
