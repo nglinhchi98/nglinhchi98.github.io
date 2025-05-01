@@ -10,7 +10,7 @@
 
 ---
 ### Data Analysis with Python projects
-<p><i>Tech stack: Python (pandas, seaborn, matplotlib), Jupyter notebook</i></p>
+<p><i>Tech stack: Python (Pandas, Seaborn, Matplotlib, Numpy), Jupyter notebook</i></p>
 [Medical data visualizer](pdf/medical_data_visualizer.html)
 <p>In this project, I visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.</p>
 ---
@@ -20,7 +20,8 @@
 [Page view time series visualizer](http://example.com/)
 <p>For this project, I visualize time series data using a line chart, bar chart, and box plots. The dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations helps to understand the patterns in visits and identify yearly and monthly growth.</p>
 ---
-[SQL Project: Ticket database](http://example.com/)
+### SQL Project
+[Ticket database](http://example.com/)
 <p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition languages to meet project requirements and ensure efficient data management and retrieval.</p>
 [Create tables](pdf/CreateTables.sql) <br>
 [Create indexes](pdf/CreateIndexes.sql) <br>
