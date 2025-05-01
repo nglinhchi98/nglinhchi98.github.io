@@ -19,6 +19,7 @@
 ---
 [SQL Project: Ticket database](http://example.com/)
 <p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition languages to meet project requirements and ensure efficient data management and retrieval.</p>
+[Create tables](pdf/CreateData.sql)
 ---
 
 ### Certificates
