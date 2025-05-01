@@ -4,7 +4,8 @@
 
 ### Projects 
 
-[Customer engagement visualisation](/sample_page)
+[Customer engagement visualisation](pdf/Wolt_DataAnalysis_ChiNguyen.html)
+<p>In this project, I used Python (pandas, seaborn, matplotlib, numpy) to visualize customer engagement with a delivery service company during the period of one year.</p>
 <img src=""/>
 
 ---
