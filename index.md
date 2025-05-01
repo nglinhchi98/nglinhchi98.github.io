@@ -4,8 +4,9 @@
 
 ### Projects 
 
-[Customer engagement visualisation](pdf/CustomerEngagement_Analysis.html)
-<p>In this project, I used Python (pandas, seaborn, matplotlib, numpy) to analyze and visualize the customer engagement of a delivery service company within a year. The solution includes exploring, cleaning, visualizing, and analyzing the dataset.</p>
+[Customer engagement visualisation](href="pdf/CustomerEngagement_Analysis.html" target="_blank")
+<p>This project focused on analyzing customer engagement data for a delivery service company. I performed data cleaning, exploratory data analysis (EDA), and visualization to uncover user behavior patterns and platform usage trends. The goal was to generate actionable insights to support business decisions related to customer engagement and retention.</p>
+<p><i>Tech stack: Python (pandas, seaborn, matplotlib, numpy), Jupyter notebook</i></p>
 
 ---
 [Medical data visualizer](/pdf/sample_presentation.pdf)
