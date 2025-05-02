@@ -9,7 +9,7 @@
 <p><i>Tech stack: Python (Pandas, Seaborn, Matplotlib, Numpy), Jupyter notebook</i></p>
 
 ---
-### Data Analysis with Python projects
+### Data Visualization with Python projects
 <p><i>Tech stack: Python (Pandas, Seaborn, Matplotlib, Numpy), Jupyter notebook</i></p>
 [Medical data visualizer](pdf/medical_data_visualizer.html)
 <p>In this project, I visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.</p>
