@@ -1,4 +1,16 @@
 ## Portfolio
+---
+### SQL Projects
+#### Web Traffic Analysis 
+[Analysis report](pdf/SQL_Web_Traffic_Analysis.pdf) <br>
+[SQL code](pdf/Web_traffic_analysis.sql)
+<p>Analyzed 8 months of e-commerce website traffic using SQL to evaluate marketing channel performance, A/B test outcomes, and full-funnel conversion metrics.</p>
+#### Ticket Database
+<p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition languages to meet project requirements and ensure efficient data management and retrieval.</p>
+[Create tables](pdf/CreateTables.sql) <br>
+[Create indexes](pdf/CreateIndexes.sql) <br>
+[Create data](pdf/CreateData.sql) <br>
+[Testing](pdf/Testing.sql) <br>
 
 ---
 ### Data Visualization with Python Projects
@@ -14,18 +26,6 @@
 ---
 [Page view time series visualizer](pdf/page-view-time-series-visualizer.html)
 <p>For this project, I visualize time series data using a line chart, bar chart, and box plots. The dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations helps to understand the patterns in visits and identify yearly and monthly growth.</p>
----
-### SQL Projects
-#### Web Traffic Analysis 
-[Analysis report](pdf/SQL_Web_Traffic_Analysis.pdf) <br>
-[SQL code](pdf/Web_traffic_analysis.sql)
-<p>Analyzed 8 months of e-commerce website traffic using SQL to evaluate marketing channel performance, A/B test outcomes, and full-funnel conversion metrics.</p>
-#### Ticket Database
-<p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition languages to meet project requirements and ensure efficient data management and retrieval.</p>
-[Create tables](pdf/CreateTables.sql) <br>
-[Create indexes](pdf/CreateIndexes.sql) <br>
-[Create data](pdf/CreateData.sql) <br>
-[Testing](pdf/Testing.sql) <br>
 
 ---
 
