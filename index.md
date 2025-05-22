@@ -1,6 +1,7 @@
 ## Portfolio
 ---
 ### SQL Projects
+<p><i>Tech stack: SQL, relational database, DML, DDL, Normalised Database Migration. </i></p>
 #### Web Traffic Analysis 
 [Analysis report](pdf/SQL_Web_Traffic_Analysis.pdf) <br>
 [SQL code](pdf/Web_traffic_analysis.sql)
