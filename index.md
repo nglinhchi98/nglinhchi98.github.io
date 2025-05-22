@@ -17,8 +17,8 @@
 ---
 ### SQL Projects
 #### Web Traffic Analysis 
-[Analysis report]()
-[SQL code]()
+[Analysis report](pdf/SQL_Web_Traffic_Analysis.pdf) <br>
+[SQL code](pdf/Web_traffic_analysis.sql)
 <p>Analyzed 8 months of e-commerce website traffic using SQL to evaluate marketing channel performance, A/B test outcomes, and full-funnel conversion metrics.</p>
 #### Ticket Database
 <p>Group project to create a ticketing system database using SQL, incorporating data manipulation and definition languages to meet project requirements and ensure efficient data management and retrieval.</p>
