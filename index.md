@@ -1,5 +1,8 @@
 ## Portfolio
 ---
+### Power BI Projects
+<iframe title="shopify_project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=2b1bde15-eadc-4130-9f6f-468afd6f7c1c&autoAuth=true&ctid=bb11cad6-c5d0-4713-bdad-12de85cdc523" frameborder="0" allowFullScreen="true"></iframe>
+---
 ### SQL Projects
 <p><i>Tech stack: SQL, relational database, DML, DDL, Normalised Database Migration. </i></p>
 #### Web Traffic Analysis 
