@@ -1,8 +1,9 @@
 ## Portfolio
 ---
 ### Power BI Projects
-[Sales analysis dashboard](dashboard/shopify_project.pbix) <br>
-<p><i>Download my PowerBI dashboard</i></p>
+[Sales and Customer funnel analysis dashboard (pbix file download)](dashboard/shopify_project.pbix) 
+<p>The dashboard visualizes sales and customer funnel for an e-commerce store</p>
+<p><i>Skills: DAX, Data cleaning & transformation, Visualization & Storytelling</i></p>
 
 ---
 ### SQL Projects
