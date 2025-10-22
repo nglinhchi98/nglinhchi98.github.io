@@ -3,6 +3,7 @@
 ### Power BI Projects
 [Sales and Customer funnel analysis dashboard (pbix file download)](dashboard/shopify_project1.pbix) 
 <p>The dashboard visualizes sales and customer funnel for an e-commerce store</p>
+[Dashboard img](images/powerbi_project1.png) <br>
 <img src="images/powerbi_project1.png?raw=true">
 <p><i>Skills: DAX, Data cleaning & transformation, Visualization & Storytelling</i></p>
 
