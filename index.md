@@ -39,7 +39,6 @@
 ---
 
 ### Certificates
-
-- [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/data-analysis-with-python-v7)
 - [Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/responsive-web-design)
+- [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/data-analysis-with-python-v7)
 ---
