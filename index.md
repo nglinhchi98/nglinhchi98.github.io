@@ -2,7 +2,16 @@
 ---
 ### Power BI Projects
 [Sales and Customer funnel analysis dashboard (pbix file download)](dashboard/shopify_project1.pbix) 
-<p>The dashboard visualizes sales and customer funnel for an e-commerce store</p>
+<p>This interactive Power BI dashboard provides a comprehensive overview of Shopify’s sales and customer funnel performance. It combines transactional, behavioral, and retention metrics into a single visual interface to support data-driven decision-making.</p>
+<p>Key Features:</p>
+
+<p>Designed an intuitive, visually cohesive layout for tracking key KPIs — Net Sales, Average Order Value, Repeat Rate, and Customer Lifetime Value.<br>
+Built dynamic filters for Gateway, Province, and Metric Type, allowing users to explore data from multiple perspectives.<br>
+Developed DAX measures to calculate core metrics such as Repeat Rate, Purchase Frequency, and Net Average Order Value.<br>
+Visualized sales trends, customer segmentation, and regional performance through time-series, geographic, and categorical visualizations.<br>
+Identified insights like top-performing regions (Washington, Houston) and dominant payment methods (Shopify Payments). </p>
+<p>Outcome:<br>
+Delivered an actionable analytics solution that highlights revenue drivers and customer retention patterns, improving visibility into business performance.</p>
 [Dashboard img](images/powerbi_project1.png) <br><br>
 <img src="images/powerbi_project1.png?raw=true">
 <p><i>Skills: DAX, Data cleaning & transformation, Visualization & Storytelling</i></p>
