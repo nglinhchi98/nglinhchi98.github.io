@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### Power BI Projects
+### Power BI Project
 [Sales and Customer funnel analysis dashboard (pbix file download)](dashboard/shopify_project1.pbix) 
 <p> An interactive dashboard that visualizes Shopify sales performance, customer behavior, and retention metrics. It tracks KPIs like net sales, average order value, repeat rate, and lifetime value, with filters for region and payment method.</p>
 <p>Goals: Helps identify top-performing regions, payment gateways, and customer segments — enabling data-driven decisions to boost revenue and retention.</p>
@@ -28,14 +28,9 @@
 [Customer Engagement Visualization](pdf/CustomerEngagement_Analysis.html)
 <p>This project focused on analyzing customer engagement data for a delivery service company. I performed data cleaning, exploratory data analysis (EDA), and visualization to uncover user behavior patterns and platform usage trends. The goal was to generate actionable insights to support business decisions related to customer engagement and retention.</p>
 ---
-[Medical data visualizer](pdf/medical_data_visualizer.html)
-<p>In this project, I visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.</p>
----
-[Sea level predictor](pdf/sea-level-predictor.html)
-<p>In this project, I analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.</p>
----
-[Page view time series visualizer](pdf/page-view-time-series-visualizer.html)
-<p>For this project, I visualize time series data using a line chart, bar chart, and box plots. The dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations helps to understand the patterns in visits and identify yearly and monthly growth.</p>
+[Activity Patterns and Sleep Outcomes report](pdf/)
+[Activity Patterns and Sleep Outcomes notebook](pdf/.html)
+<p>This project investigates how the timing of daily physical activity (daytime vs. evening) influences sleep duration and quality. Using wearable sensor data from the MMASH dataset, the analysis examines associations between activity intensity and key sleep metrics such as total sleep time, sleep efficiency, and wake after sleep onset (WASO). The goal is to determine whether being more active earlier or later in the day leads to better sleep outcomes and to generate data-driven insights that could inform lifestyle recommendations for improving sleep quality.</p>
 
 ---
 
