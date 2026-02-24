@@ -28,8 +28,8 @@
 [Customer Engagement Visualization](pdf/CustomerEngagement_Analysis.html)
 <p>This project focused on analyzing customer engagement data for a delivery service company. I performed data cleaning, exploratory data analysis (EDA), and visualization to uncover user behavior patterns and platform usage trends. The goal was to generate actionable insights to support business decisions related to customer engagement and retention.</p>
 ---
-[Activity Patterns and Sleep Outcomes report](pdf/)
-[Activity Patterns and Sleep Outcomes notebook](pdf/.html)
+[Activity Patterns and Sleep Outcomes report](pdf/DHHB_FinalProject_ActivityvsSleep.pdf)
+[Activity Patterns and Sleep Outcomes notebook](pdf/ActivityvsSleepanalysis.html)
 <p>This project investigates how the timing of daily physical activity (daytime vs. evening) influences sleep duration and quality. Using wearable sensor data from the MMASH dataset, the analysis examines associations between activity intensity and key sleep metrics such as total sleep time, sleep efficiency, and wake after sleep onset (WASO). The goal is to determine whether being more active earlier or later in the day leads to better sleep outcomes and to generate data-driven insights that could inform lifestyle recommendations for improving sleep quality.</p>
 
 ---
