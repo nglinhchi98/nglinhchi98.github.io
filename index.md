@@ -1,14 +1,5 @@
 ## Portfolio
 ---
-### Power BI Project
-[Sales and Customer funnel analysis dashboard (pbix file download)](dashboard/shopify_project1.pbix) 
-<p> An interactive dashboard that visualizes Shopify sales performance, customer behavior, and retention metrics. It tracks KPIs like net sales, average order value, repeat rate, and lifetime value, with filters for region and payment method.</p>
-<p>Goals: Helps identify top-performing regions, payment gateways, and customer segments — enabling data-driven decisions to boost revenue and retention.</p>
-[Dashboard img](images/powerbi_project1.png) <br><br>
-<img src="images/powerbi_project1.png?raw=true">
-<p><i>Skills: Data modeling, DAX calculations, KPI design, and interactive visualization in Power BI.</i></p>
-
----
 ### SQL Projects
 <p><i>Tech stack: SQL, relational database, DML, DDL, Normalised Database Migration. </i></p>
 #### Web Traffic Analysis 
@@ -31,6 +22,14 @@
 [Activity Patterns and Sleep Outcomes report](pdf/DHHB_FinalProject_ActivityvsSleep.pdf)<br>
 [Activity Patterns and Sleep Outcomes notebook](pdf/ActivityvsSleepanalysis.html)
 <p>This project investigates how the timing of daily physical activity (daytime vs. evening) influences sleep duration and quality. Using wearable sensor data from the MMASH dataset, the analysis examines associations between activity intensity and key sleep metrics such as total sleep time, sleep efficiency, and wake after sleep onset (WASO). The goal is to determine whether being more active earlier or later in the day leads to better sleep outcomes and to generate data-driven insights that could inform lifestyle recommendations for improving sleep quality.</p>
+---
+### Power BI Project
+[Sales and Customer funnel analysis dashboard (pbix file download)](dashboard/shopify_project1.pbix) 
+<p> An interactive dashboard that visualizes Shopify sales performance, customer behavior, and retention metrics. It tracks KPIs like net sales, average order value, repeat rate, and lifetime value, with filters for region and payment method.</p>
+<p>Goals: Helps identify top-performing regions, payment gateways, and customer segments — enabling data-driven decisions to boost revenue and retention.</p>
+[Dashboard img](images/powerbi_project1.png) <br><br>
+<img src="images/powerbi_project1.png?raw=true">
+<p><i>Skills: Data modeling, DAX calculations, KPI design, and interactive visualization in Power BI.</i></p>
 
 ---
 
