@@ -35,8 +35,8 @@
 ---
 
 ### Certificates
-  [AI & Cybersecurity course certificate - University of Turku] (pdf/Course_Certificate_AICybersecurity.pdf) <br>
-  [Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/responsive-web-design) <br>
-  [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/data-analysis-with-python-v7) <br>
+  [AI & Cybersecurity course certificate - University of Turku](pdf/Course_Certificate_AICybersecurity.pdf) <br>
+    [Responsive Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/responsive-web-design) <br>
+    [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/certification/chinguyen98/data-analysis-with-python-v7) 
   
 ---
